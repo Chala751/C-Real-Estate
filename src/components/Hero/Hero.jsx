@@ -46,7 +46,8 @@ const Hero = () => {
             </div>
             <div className="flexCenter hero-right">
                 <div className="image-container">
-                    <img src="./hero.jpg" alt="" />
+                    <img src={`${import.meta.env.BASE_URL}hero.jpg`} alt="Hero" />
+
                 </div>
             </div>
         </div>

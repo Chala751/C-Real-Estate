@@ -24,3 +24,4 @@ node_modules/.cache/
 # Optional: ignore IDE/editor config
 .vscode/
 .idea/
+node_modules/
